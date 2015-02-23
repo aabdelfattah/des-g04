@@ -1,4 +1,4 @@
-# OCRA : OCR for Arabic Cursive Text
+# DESG04
 
 An implementation of DES encryption algorithm.
 
